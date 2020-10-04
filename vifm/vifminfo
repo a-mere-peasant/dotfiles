@@ -1,0 +1,237 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/x/
+	..
+1600634385
+'b
+	/home/x/bin/
+	..
+1600634385
+'h
+	/home/x/
+	..
+1600634385
+'z
+	/home/x/.config/vifm
+	..
+1600634385
+
+# Bookmarks:
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/x/.config
+	termite
+12
+d/home/x
+	.pki
+5
+d/home
+	x
+1
+d/
+	root
+11
+d/home/x
+	.cache
+1
+d/home/x/.cache
+	fontconfig
+1
+d/home/x
+	.local
+3
+d/home/x/.local
+	..
+0
+d/home/x
+	.mozilla
+4
+d/home/x/.mozilla
+	..
+0
+d/home/x
+	.config
+2
+d/home/x/.config
+	vifm
+13
+d/home/x/.config/vifm
+	..
+0
+d/home/x/.config
+	..
+0
+d/home/x
+	Downloads
+8
+d/home/x/Downloads
+	..
+0
+d/home/x
+	.config
+2
+d/home/x/.config
+	vifm
+13
+d/home/x/.config/vifm
+	scripts
+2
+d/home/x/.config/vifm/scripts
+	..
+0
+d/home/x/.config/vifm
+	scripts
+2
+d/home/x/.config/vifm/scripts
+	..
+0
+d/home/x/.config/vifm
+	..
+0
+d/home/x/.config
+	..
+0
+d/home/x
+	Downloads
+8
+d/home/x/Downloads
+	..
+0
+d/home/x
+	..
+0
+d/home
+	..
+0
+d/
+	etc
+3
+d/etc
+	..
+0
+d/
+	dev
+2
+d/dev
+	bus
+3
+d/
+	boot
+1
+d/boot
+	..
+0
+d/
+	etc
+3
+d/etc
+	ca-certificates
+10
+d/home/x
+	Downloads
+8
+d/home/x/Downloads
+	..
+0
+d/home/x
+	.config
+2
+d/home/x/.config
+	vifm
+13
+d/home/x/.config/vifm
+	scripts
+2
+d/home/x/.config/vifm/scripts
+	..
+0
+d/home/x/.config/vifm
+	..
+0
+d/home/x/.config
+	..
+0
+d/home/x
+	Downloads
+8
+d/home/x/Downloads
+	rocket.png
+4
+d/home/x
+	.config
+2
+d/home/x/.config
+	vifm
+13
+d/home/x/.config/vifm
+	scripts
+2
+d/home/x/.config/vifm/scripts
+	..
+0
+d/home/x/.config/vifm
+	scripts
+2
+d/home/x/.config/vifm/scripts
+	..
+0
+d/home/x/.config/vifm
+	..
+0
+d/home/x/.config
+	..
+0
+d/home/x
+	Downloads
+8
+d/home/x/Downloads
+	..
+0
+d/home/x
+	Downloads
+8
+d
+
+# Right window history (oldest to newest):
+D/home/x/.config
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:wq
+:q
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].1
+]F
+s0
