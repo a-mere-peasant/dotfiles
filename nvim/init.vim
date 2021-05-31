@@ -1,7 +1,6 @@
 call plug#begin('~/.config/nvim/plugged/')
 
 Plug 'mitermayer/vim-prettier'
-Plug 'jiangmiao/auto-pairs' "Autocomplete brackets. 
 Plug 'tomtom/tcomment_vim'
 Plug 'tpope/vim-fugitive' "Git tools
 Plug 'metakirby5/codi.vim'
@@ -33,8 +32,7 @@ set clipboard=unnamedplus
 
 nnoremap <C-p> :Files<Cr>
 map <C-n> :NERDTreeToggle<CR> 
-let NERDTreeQuitOnOpen = 1 "closes NerdTree when opening a file
-
+autocmd VimEnter * NERDTree | wincmd p
 " Disable Arrow keys in Normal mode
 map <up> <nop>
 map <down> <nop>
@@ -50,6 +48,10 @@ imap <right> <nop>
 map <Leader>vv :Vifm<CR>
 map <Leader>vs :VsplitVifm<CR>
 map <Leader>sp :SplitVifm<CR>
+
+" Automatically closing braces
+inoremap {<CR> {<CR>}<Esc>ko<tab>
+
 
 syntax on
 let g:onedark_hide_endofbuffer = 1
